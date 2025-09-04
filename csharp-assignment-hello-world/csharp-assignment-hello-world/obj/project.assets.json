@@ -8,19 +8,19 @@
     "net9.0": []
   },
   "packageFolders": {
-    "/Users/huynguyen/.nuget/packages/": {}
+    "/Users/ngomychau/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/huynguyen/Documents/GitHub/csharp-assignment-hello-world/csharp-assignment-hello-world/csharp-assignment-hello-world/csharp-assignment-hello-world.csproj",
+      "projectUniqueName": "/Users/ngomychau/bai-tap-operator-va-control-flow-chaungo31241027476-prog/csharp-assignment-hello-world/csharp-assignment-hello-world/csharp-assignment-hello-world.csproj",
       "projectName": "csharp-assignment-hello-world",
-      "projectPath": "/Users/huynguyen/Documents/GitHub/csharp-assignment-hello-world/csharp-assignment-hello-world/csharp-assignment-hello-world/csharp-assignment-hello-world.csproj",
-      "packagesPath": "/Users/huynguyen/.nuget/packages/",
-      "outputPath": "/Users/huynguyen/Documents/GitHub/csharp-assignment-hello-world/csharp-assignment-hello-world/csharp-assignment-hello-world/obj/",
+      "projectPath": "/Users/ngomychau/bai-tap-operator-va-control-flow-chaungo31241027476-prog/csharp-assignment-hello-world/csharp-assignment-hello-world/csharp-assignment-hello-world.csproj",
+      "packagesPath": "/Users/ngomychau/.nuget/packages/",
+      "outputPath": "/Users/ngomychau/bai-tap-operator-va-control-flow-chaungo31241027476-prog/csharp-assignment-hello-world/csharp-assignment-hello-world/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/Users/huynguyen/.nuget/NuGet/NuGet.Config"
+        "/Users/ngomychau/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net9.0"
@@ -65,7 +65,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/9.0.303/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/9.0.304/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
